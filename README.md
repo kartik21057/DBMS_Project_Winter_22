@@ -4,4 +4,5 @@ Repository for sharing materials and databases for the Data Base Management Syst
 Group 32
 1) Saad Khan: 2021075
 2) kartik saroha :2021057
+3) Ritika nagar  :2021045
 
